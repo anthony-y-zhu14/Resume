@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.18)  19 NOV 2020 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.18)  7 NOV 2021 19:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -856,16 +856,16 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 4.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 26.
+(Font)              scaled to size 10.0pt on input line 34.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 61.
+(Font)              scaled to size 9.0pt on input line 60.
 )
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 62.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 60.
  (c:/texlive/2020/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 62.
+(Font)              scaled to size 9.0pt on input line 60.
  (c:/Users/antho/Documents/Resume/page2sidebar.tex)
 
 LaTeX Warning: Marginpar on page 1 moved.
@@ -884,15 +884,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29101 strings out of 479917
- 581046 string characters out of 5886664
- 1341225 words of memory out of 5000000
- 45202 multiletter control sequences out of 15000+600000
+ 29099 strings out of 479917
+ 580994 string characters out of 5886664
+ 1339225 words of memory out of 5000000
+ 45200 multiletter control sequences out of 15000+600000
  781312 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  122i,9n,124p,1181b,802s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on c:/Users/antho/Documents/Resume/main.pdf (1 page, 87454 bytes).
+Output written on c:/Users/antho/Documents/Resume/main.pdf (1 page, 86347 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
