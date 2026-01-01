@@ -9,5 +9,6 @@ export default [
   { kind: "phone", label: "+1 613 252 7730", href: "tel:+16132527730" },
   { kind: "location", label: "Ottawa, Ontario, Canada" },
   { kind: "link", label: "linkedin.com/in/anthony-y-zhu", href: "https://www.linkedin.com/in/anthony-y-zhu/" },
+  { kind: "link", label: "anthony-y-zhu14.github.io", href: "https://anthony-y-zhu14.github.io/resume/" },
   { kind: "link", label: "github.com/anthony-y-zhu14", href: "https://github.com/anthony-y-zhu14" }
 ] satisfies Array<Contact>
