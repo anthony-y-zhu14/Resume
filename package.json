@@ -15,7 +15,7 @@
     "build": "npm-run-all \"build:*\"",
     "build:html": "vite build",
     "build:pdf": "node scripts/pdf.ts",
-    "preview": "vite preview",
+    "deploy": "npm run build:html",
     "start": "vite",
     "test": "eslint ."
   },
