@@ -1,7 +1,7 @@
-import contacts, { type Contact } from '#configs/contacts.js'
-import projects, { type Project } from '#configs/projects.js'
-import employments, { type Employment } from '#configs/employments.js'
-import educations, { type Education } from '#configs/educations.js'
+import contacts, { type Contact } from './contacts.js'
+import projects, { type Project } from './projects.js'
+import employments, { type Employment } from './employments.js'
+import educations, { type Education } from './educations.js'
 
 export interface Config {
   name: string
