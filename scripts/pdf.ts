@@ -19,6 +19,14 @@ await page.evaluate(() => document.fonts?.ready)
 
 await page.pdf({
   path: pdfPath,
+  height: "11in",
+  width: "8.5in",
+  margin: {
+    top: "0.5in",
+    bottom: "0.5in",
+    left: "0.5in",
+    right: "0.5in"
+  },
   preferCSSPageSize: true
 })
 
